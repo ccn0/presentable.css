@@ -16,8 +16,8 @@ example: `<cr>This text is red!</cr>`
 `<box>` makes text sorrounded by a box  
   
   
-# Better `<div>`
+# Better `<div>` classes
 
-`.area` makes a strong division arround elements  
-`.header` places a header at the top.  
-`.footer` places a fixed tab at the bottom left of the viewport.  
+`<div class="area">` makes a strong division arround elements  
+`<div class="header">` places a header at the top.  
+`<div class="footer">` places a fixed tab at the bottom left of the viewport.  
