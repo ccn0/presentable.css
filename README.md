@@ -19,5 +19,5 @@ example: `<cr>This text is red!</cr>`
 # Better `<div>` classes
 
 `<div class="area">` makes a strong division arround elements  
-`<div class="header">` places a header at the top.  
+`<div class="topnav">` places a header at the top.  
 `<div class="footer">` places a fixed tab at the bottom left of the viewport.  
