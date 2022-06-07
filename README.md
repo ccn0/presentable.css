@@ -3,7 +3,8 @@
 
 # HTML Tags
 
-use `<c` followed by the first letter of the color you want.  
+use `<c` followed by the first letter of the color you want. there is only (r)ed, (y)ellow, (g)reen, (c)yan, (b)lue, and (m)agenta.
+  
 example: `<cr>This text is red!</cr>`  
   
 `<bi>` makes text bold and italic  
