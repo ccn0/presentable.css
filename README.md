@@ -1,7 +1,7 @@
 # Presentable.css
  The `STYLE.CSS` used by some of our programs to make webpages look better, easier.
 
-## HTML Tags
+## Tags
 
 use `<c` followed by the first letter of the color you want. there is only (r)ed, (y)ellow, (g)reen, (c)yan, (b)lue, and (m)agenta.
   
@@ -16,7 +16,7 @@ example: `<cr>This text is red!</cr>`
 `<box>` makes text sorrounded by a box  
   
   
-## Better `<div>` classes
+## Better `<div>` elements
 
 `<div class="topnav">` places a header at the top.  
 `<div class="area">` makes a strong division arround elements  
