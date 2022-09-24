@@ -1,9 +1,11 @@
 # Presentable.css
- The `STYLE.CSS` used by some of our programs to make webpages look better, easier.
 
-## Tags
+ The `STYLE.CSS` used by some of our programs to make webpages look presentable (that's why it's called that.)
+ You can use it in any of your projects, as long as you credit me (@CCNO) somewhere.
 
-use `<c` followed by the first letter of the color you want. there is only (r)ed, (y)ellow, (g)reen, (c)yan, (b)lue, and (m)agenta.
+## Custom Tags
+
+use `<c` followed by the first letter of the color you want. there is only **r**ed, **y**ellow, **g**reen, **c**yan, **b**lue, and **m**agenta.
   
 example: `<cr>This text is red!</cr>`  
   
