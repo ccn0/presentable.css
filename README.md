@@ -23,3 +23,7 @@ example: `<cr>This text is red!</cr>`
 `<div class="topnav">` places a header at the top.  
 `<div class="area">` makes a strong division arround elements  
 `<div class="footer">` places a fixed tab at the bottom left of the viewport.  
+
+## Hosting
+
+I host it on my Github Pages site. You can link it with `<link rel="stylesheet" href="https://ccn0.github.io/things/presentable.css">` or you can host it on your own.
