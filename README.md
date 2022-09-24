@@ -1,7 +1,7 @@
 # Presentable.css
 
  The `STYLE.CSS` used by some of our programs to make webpages look presentable (that's why it's called that.)
- You can use it in any of your projects, as long as you credit me (@CCNO) somewhere.
+ You can use it in any of your projects, as long as you credit me (@CCN0) somewhere.
 
 ## Custom Tags
 
